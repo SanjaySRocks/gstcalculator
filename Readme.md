@@ -1,1 +1,1 @@
-
+A basic calculator to calculate gst amount written is javascript.
